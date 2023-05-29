@@ -1,0 +1,29 @@
+ul {
+    list-style: none;
+    text-decoration: underline;
+    color: white;
+}
+
+.wrapper {
+    display: flex;
+    margin-top: 10%;
+    background: #0a687a;
+    width: 100%;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: nowrap;
+}
+
+ul {
+    display: inline-flex;
+    justify-content: space-around;
+    margin: 0;
+    padding: 4px;
+    width: 100%;
+}
+
+.sort {
+    margin-left: 5%;
+    width: 200px;
+    color: white;
+}

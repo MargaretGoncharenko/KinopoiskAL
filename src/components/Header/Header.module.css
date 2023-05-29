@@ -1,0 +1,156 @@
+.wrapper {
+    position: absolute;
+    height: 100px;
+    left: 0;
+    right: 0;
+    top: calc(50% - 105px / 2 - 170px);
+    /*top: calc(50% - 105px/2 - 4103px);*/
+}
+
+.logoPart {
+    position: absolute;
+    top: -50px;
+    left: 2.08%;
+    right: 52.6%;
+}
+
+.logo {
+    position: absolute;
+    top: calc(50% - 35px / 2 - 30px);
+}
+
+.navigationPart {
+    position: absolute;
+    height: 65px;
+    left: 20%;
+    right: 2.08%;
+    top: 20px;
+    background: #0a687a;
+}
+
+.weather {
+    height: 45px;
+    width: 78%;
+    margin-left: 20%;
+    margin-top: 2%;
+    border: 1px solid black;
+}
+
+.navigate {
+    position: absolute;
+    height: 65px;
+    left: 0%;
+    right: 44.74%;
+    top: calc(50% - 65px / 2);
+}
+
+.home {
+    position: absolute;
+    height: 26px;
+    left: 4.58%;
+    right: 83.48%;
+    top: 20px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 26px;
+    color: #1ec6f6;
+}
+
+.about {
+    position: absolute;
+    height: 26px;
+    left: 25.97%;
+    right: 62.09%;
+    top: 20px;
+    color: white;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 26px;
+}
+
+.pages {
+    position: absolute;
+    height: 26px;
+    left: 47.36%;
+    right: 40.2%;
+    top: 20px;
+    color: white;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 26px;
+}
+
+.contactUs {
+    position: absolute;
+    height: 26px;
+    left: 72.24%;
+    right: 4.87%;
+    top: 20px;
+    color: white;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 26px;
+}
+
+.socialMedia {
+    position: absolute;
+    height: 29px;
+    left: 55.26%;
+    right: 27.69%;
+    top: calc(50% - 29px / 2);
+}
+
+.facebook {
+    position: absolute;
+    height: 19px;
+    left: 8.39%;
+    right: 83.54%;
+    top: calc(50% - 19px / 2 + 1px);
+    border-radius: 0px;
+}
+
+.twitter {
+    position: absolute;
+    height: 16px;
+    left: 34.59%;
+    right: 52.9%;
+    top: calc(50% - 16px / 2 + 0.5px);
+    border-radius: 0px;
+}
+
+.linkedIn {
+    position: absolute;
+    height: 16px;
+    left: 61.23%;
+    right: 23.87%;
+    top: calc(50% - 16px / 2 + 0.5px);
+    border-radius: 0px;
+}
+
+.myCase {
+    position: absolute;
+    height: 35px;
+    left: 77%;
+    right: 5%;
+    top: calc(50% - 35px / 2);
+}
+
+.film {
+    margin-left: -95px;
+    margin-top: -3px;
+}
+
+.myCaseText {
+    position: absolute;
+    font-size: 14px;
+    margin-top: 5px;
+    margin-left: 3px;
+}
